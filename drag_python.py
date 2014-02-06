@@ -1,3 +1,4 @@
+# This is a commment, it will be ignored when the program runs
 import random
 import time
 
